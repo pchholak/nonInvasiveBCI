@@ -1,0 +1,17 @@
+Part 1  Test_27-Apr-2021_17h_15m_12.317s
+
+
+Start of white screen demonstration:  61262.131       61542.228       61812.255       62082.281
+
+Finish of white screen demonstration:  61292.137       61572.245       61842.272         62112.3
+
+Start of stationary cube demonstration:  61142.122
+
+Finish of stationary cube demonstration:  61262.131
+
+Blinking frequency:  13.3333      13.3333      13.3333
+
+Start of presentation of blinking cube:  61302.21       61572.246       61842.272
+
+Finish of presentation of blinking cube:  61542.228       61812.255       62082.281
+
